@@ -20,5 +20,5 @@ mod "puppetlabs/haproxy"
 #  :branch => 'docs_experiment'
 
 mod 'tomcat',
-  :git    => 'https://github.com/damodar4u/puppet-module-tomcat.git',
+  :git    => 'https://github.com/damodar4u/puppet-module-tomcat.git'
 
