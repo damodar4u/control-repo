@@ -22,3 +22,6 @@ mod "puppetlabs/haproxy"
 mod 'tomcat',
   :git    => 'https://github.com/damodar4u/puppet-module-tomcat.git'
 
+mod 'java',
+  :git    => 'https://github.com/damodar4u/puppet-module-java.git'
+
