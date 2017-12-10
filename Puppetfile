@@ -1,4 +1,7 @@
 forge "https://forge.puppet.com"
+mod "puppetlabs/ntp",	'4.2.0'
+mod "puppetlabs/haproxy"
+
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
@@ -15,3 +18,10 @@ forge "https://forge.puppet.com"
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
+
+mod 'tomcat',
+  :git    => 'https://github.com/damodar4u/puppet-module-tomcat.git',
+
+mod 'java',
+  :git    => 'https://github.com/damodar4u/puppet-module-java.git',
+
