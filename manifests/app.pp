@@ -1,4 +1,4 @@
-node 'node1' {
+node 'node3' {
 class {'tomcat':
 xms => "50m"
 }
