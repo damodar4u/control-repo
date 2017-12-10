@@ -1,6 +1,6 @@
 node 'node3' {
 class {'tomcat':
-xms => "50m"
+xms => "51m"
 }
 
 notify {"***** node1 block****":

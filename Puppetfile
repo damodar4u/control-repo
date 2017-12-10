@@ -24,4 +24,3 @@ mod 'tomcat',
 
 mod 'java',
   :git    => 'https://github.com/damodar4u/puppet-module-java.git'
-
